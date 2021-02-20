@@ -13,4 +13,4 @@
 
 
 
-<h4 align="center">  🚧 dev.finance$ 🚀 Em construção...  🚧 </h4>
+<h4 align="center"> dev.finance$ 🚀 </h4>
