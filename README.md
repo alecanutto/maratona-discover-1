@@ -12,5 +12,7 @@
 - [x] **Aula 4**
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e1a1315-66ed-4bfd-918c-73678d6e5071/deploy-status)](https://app.netlify.com/sites/ale-maratonadiscover/deploys)
+
 
 <h4 align="center"> dev.finance$ 🚀 </h4>
